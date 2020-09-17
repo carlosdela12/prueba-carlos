@@ -1,1 +1,1 @@
-console.log("Pikachu")
+console.log("Raichu")
